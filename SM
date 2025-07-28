@@ -2,7 +2,7 @@
 import platform,os
 import ASM
 #####
-os.system("git pull")
+
  
 
  
